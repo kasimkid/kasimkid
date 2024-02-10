@@ -1,9 +1,6 @@
-Hola, 👋 soy Rafael Araujo
+### Hola, 👋 soy Rafael Araujo 🧑‍💻 
 
-<!--
-**kasimkid/kasimkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Apasionado de la tecnología; con conocimientos eb **HTML**, **CSS**, **Bootstrap5**, **JavaScript**, **React JS**, **NodeJS**, **SQL**, **SQLAlchemy**, **Git/Github**, **Python**, **FastApi**, **REST api**, para el desarrollo de páginas y aplicaciones web.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
