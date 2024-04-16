@@ -4,7 +4,7 @@ Apasionado de la tecnología; con conocimientos esenciales para el desarrollo de
 
 **Interés**
 
-Desarrollar fortalecer mis habilidades para convertirme en un programador profesional.
+Desarrollar y fortalecer mis habilidades para convertirme en un programador profesional.
 
 **Proyectos**
 
