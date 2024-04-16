@@ -2,10 +2,17 @@
 
 Apasionado de la tecnología; con conocimientos esenciales para el desarrollo de páginas y aplicaciones web. Me considero un solucionador de problemas creativo y tengo excelentes habilidades de comunicación y trabajo en equipo.
 
-**HTML**, **CSS**, **Bootstrap5**, **JavaScript**, **React JS**, **NodeJS**, **SQL**, **SQLAlchemy**, **Git/Github**, **Python**, **FastApi**, **REST api**
+**Interés**
+
+Desarrollar fortalecer mis habilidades para convertirme en un programador profesional.
+
+**Proyectos**
+
+App de Registro Vehicular en un estacionamiento comercial (en desarrollo)
+
 
 **Contactame**
-
+<p align="left"> <a href="https://www.linkedin.com/in/in/rafael-araujo-sandoval/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 **Lenguajes y Herramientas**
 
