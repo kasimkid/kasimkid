@@ -5,4 +5,4 @@ Apasionado de la tecnología; con conocimientos en **HTML**, **CSS**, **Bootstra
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasimkid)](https://github.com/kasimkid/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimikid&langs_count=8)](https://github.com/kasimkid/github-readme-stats)
