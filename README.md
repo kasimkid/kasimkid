@@ -1,8 +1,11 @@
 ### Hola, 👋 soy Rafael Araujo 🧑‍💻 
 
-Apasionado de la tecnología; con conocimientos en **HTML**, **CSS**, **Bootstrap5**, **JavaScript**, **React JS**, **NodeJS**, **SQL**, **SQLAlchemy**, **Git/Github**, **Python**, **FastApi**, **REST api**, para el desarrollo de páginas y aplicaciones web.
+Apasionado de la tecnología; con conocimientos esenciales para el desarrollo de páginas y aplicaciones web. Me considero un solucionador de problemas creativo y tengo excelentes habilidades de comunicación y trabajo en equipo.
+
+**HTML**, **CSS**, **Bootstrap5**, **JavaScript**, **React JS**, **NodeJS**, **SQL**, **SQLAlchemy**, **Git/Github**, **Python**, **FastApi**, **REST api**
 
 **Contactame**
+
 
 **Lenguajes y Herramientas**
 
