@@ -2,10 +2,15 @@
 
 Apasionado de la tecnología; con conocimientos en **HTML**, **CSS**, **Bootstrap5**, **JavaScript**, **React JS**, **NodeJS**, **SQL**, **SQLAlchemy**, **Git/Github**, **Python**, **FastApi**, **REST api**, para el desarrollo de páginas y aplicaciones web.
 
+**Contactame**
 
-Lenguajes y Herramientas
-<img src="[https://url_de_tu_icono/icono.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Flinkedin-logo&psig=AOvVaw0Jc_F_rk-fqQyQvCyTVYOS&ust=1713322977950000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihps_fxYUDFQAAAAAdAAAAABAE)" alt="Nombre del lenguaje" title="Linkedin">
 
+<a href="https://www.linkedin.com/in/rafael-araujo-sandoval">
+  <img src=/>
+</a>
+
+**Lenguajes y Herramientas**
+<img src="data:image/png;base64,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"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimkid&layout=compact)](https://github.com/kasimkid/github-readme-stats)
 
